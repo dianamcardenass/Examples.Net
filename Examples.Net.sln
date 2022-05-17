@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples.Net", "Examples.Net\Examples.Net.csproj", "{F0D69323-60B6-4512-9F95-8D76B5C2DFF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures", "Examples.Net\DataStructures.csproj", "{F0D69323-60B6-4512-9F95-8D76B5C2DFF2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EjercicosGenerales", "EjercicosGenerales", "{1A89CC9D-C102-48B2-B471-F7DD9D44AABA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEB-APIS", "WEB-APIS", "{ABE269F3-6671-4D52-89F1-EFC91A1D20FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPITest", "WebAPITest\WebAPITest.csproj", "{99F98A58-7A6E-425C-8426-5D88DBEC4155}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPITest", "WebAPITest\WebAPITest.csproj", "{99F98A58-7A6E-425C-8426-5D88DBEC4155}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
